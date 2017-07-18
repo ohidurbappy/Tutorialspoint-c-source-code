@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1500062705 source:e:\project\c\22.nested-loop\main.c
+	<stdio.h>
+	<stdlib.h>
+

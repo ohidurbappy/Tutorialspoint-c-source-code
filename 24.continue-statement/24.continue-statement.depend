@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1500063818 source:e:\project\c\24.continue-statement\main.c
+	<stdio.h>
+	<stdlib.h>
+

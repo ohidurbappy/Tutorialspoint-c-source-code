@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1500061348 source:e:\project\c\20.for-lopp\main.c
+	<stdio.h>
+	<stdlib.h>
+

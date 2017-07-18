@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1500064094 source:e:\project\c\25.goto-statement\main.c
+	<stdio.h>
+	<stdlib.h>
+

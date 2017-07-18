@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1500145149 source:e:\project\c\35.multi-dimensional-array\main.c
+	<stdio.h>
+	<stdlib.h>
+
