@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1499801873 source:e:\projecct\c\data-type\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<float.h>
+

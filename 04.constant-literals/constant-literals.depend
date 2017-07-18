@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1499805810 source:e:\projecct\c\constant-literals\main.c
+	<stdio.h>
+	<stdlib.h>
+

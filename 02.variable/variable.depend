@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1499803676 source:e:\projecct\c\variable\main.c
+	<stdio.h>
+	<stdlib.h>
+	"var.c"
+
+1499803603 e:\projecct\c\variable\var.c
+
+1499803603 source:e:\projecct\c\variable\var.c
+

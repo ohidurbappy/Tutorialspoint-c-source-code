@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1500059797 source:e:\project\c\17.conditional-switch\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
