@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1500317014 source:e:\project\c\tutorialspoint examples\66.preprocessor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"myheader.h"
+
+1500316652 e:\project\c\tutorialspoint examples\66.preprocessor\myheader.h
+

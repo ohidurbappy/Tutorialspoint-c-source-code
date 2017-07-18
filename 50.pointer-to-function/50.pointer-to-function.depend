@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1500296355 source:e:\project\c\50.pointer-to-function\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

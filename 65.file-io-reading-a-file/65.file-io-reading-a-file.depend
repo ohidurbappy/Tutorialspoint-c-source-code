@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1500315738 source:e:\project\c\65.file-io-reading-a-file\main.c
+	<stdio.h>
+	<stdlib.h>
+
