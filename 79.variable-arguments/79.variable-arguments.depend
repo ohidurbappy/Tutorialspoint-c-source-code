@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1500325241 source:e:\project\c\79.variable-arguments\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+

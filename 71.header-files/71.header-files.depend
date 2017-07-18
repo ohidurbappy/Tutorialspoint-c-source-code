@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1500320711 source:e:\project\c\71.header-files\main.c
+	<stdio.h>
+	<stdlib.h>
+	"myheader.h"
+	"myheader.h"
+
+1500320797 e:\project\c\71.header-files\myheader.h
+

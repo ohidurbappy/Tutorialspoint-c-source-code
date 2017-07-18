@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1500326460 source:e:\project\c\80.memory-allocation-malloc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
